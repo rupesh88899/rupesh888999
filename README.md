@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Who am I:<br>I'm a 2nd-year engineering student 🎓 passionate about learning and building things.<br><br>🛠️ Currently Working on:<br>I'm diving deep into Data Structures and Algorithms (DSA) and exploring full-stack development 💻.<br><br>📚 Currently Learning:<br>Studying DSA 📊 and delving into full-stack development 🌐.<br><br>🎉 Fun Fact:<br>I think I'm a procrastinator, but I'll confirm it later.<br><br>🔍 Looking for:<br>Seeking opportunities to collaborate on cool projects, contribute to open-source 🌟, and connect with fellow tech enthusiasts.<br>
-[![](https://visitcount.itsvg.in/api?id=satendra03&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rupesh888999&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
