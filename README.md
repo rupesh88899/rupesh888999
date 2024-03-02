@@ -22,13 +22,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=rupesh88899&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👨‍💻 LeetCode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh88899&theme=github-drak" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=github-drak" alt="LeetCode Badges"/>
 
 ## Others 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rupesh888999/)
-[![GeekForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/satendra_03)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/satendra03)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/satendra_03)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rupesh888999)
+[![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rupesh888999)
+
 
 
 ### ✍️ Random Dev Quote
