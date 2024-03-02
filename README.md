@@ -21,7 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rupesh88899&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+## 👨‍💻 LeetCode
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=github-drak" alt="LeetCode Badges"/>
 
 ## Others 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rupesh888999/)
