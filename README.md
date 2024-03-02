@@ -21,13 +21,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rupesh88899&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 👨‍💻 LeetCode
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=rupesh888999&theme=github-drak" alt="LeetCode Badges"/>
+
 
 ## Others 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rupesh888999/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rupesh888999)
 [![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rupesh888999)
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rupesh888999)
 
 
 
